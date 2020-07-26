@@ -4,6 +4,7 @@ public class HelloWorldBean {
 
 	private String message;
 
+	//test comment
 	public HelloWorldBean(String message) {
 		this.message = message;
 	}
